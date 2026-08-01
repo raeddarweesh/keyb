@@ -154,17 +154,17 @@ Double‑click modifiers – toggles sticky mode (Shift, Ctrl, Alt).
 
 Right‑click (mouse button 3) – simulated via the 🖰 key.
 
-Swipe typing – enable with the ✍ button, then drag over letters; release to insert the predicted word.
+Swipe typing – enable with the knot button button, then drag over letters; release to insert the predicted word.
 
 Change modes – click the 🖮 button to cycle through Normal → Auto‑shrink → Ribbon → Numeric keypad.
 
 Change themes – click the ◐ button to cycle through 8 colour schemes.
 
-Change button shape – click 🕹 to cycle through four shapes.
+Change button shape – click square button to cycle through four shapes.
 
 Dock left – click ⮀ to attach the window to the left edge (only a sliver remains).
 
-Opacity cycle – click 🟫 to decrease opacity; wrap‑around to full opacity.
+Opacity cycle – click circular button to decrease opacity; wrap‑around to full opacity.
 
 Screenshot – press 📷 to capture the entire screen (saves as screen_YYYYMMDD_HHMMSS.png).
 
@@ -183,6 +183,18 @@ Ribbon mode
 Numeric keypad
 
 Swipe in action
+
+# Known Bugs
+Resizing causes some buttons or part of the UI to disappear.
+
+Swipe hallosination.
+
+Dragging may push the window out of screen visual area.
+
+# TODO
+Adding languages other than English.
+
+Change Swipe algorithm.
 
 # Contributing
 Contributions are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
