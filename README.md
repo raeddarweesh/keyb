@@ -3,7 +3,7 @@ Keyb is a feature‑rich on‑screen virtual keyboard designed for Linux desktop
 
 # ✨ Features
 
-
+https://github.com/user-attachments/assets/a812be3a-59b9-4be4-9bf6-688de8b821f5
 
 # Core Keyboard
 Full QWERTY layout with modifier keys (Shift, Ctrl, Alt, Caps Lock)
@@ -24,7 +24,7 @@ Key repeat with configurable delay and rate
 
 XKB layout monitoring – automatically adapts to system keyboard layout (supports Arabic with custom mapping)
 
-
+https://github.com/user-attachments/assets/9b9cfe9b-3890-477b-ae3c-ee498f10af9d
 
 # Appearance
 8 colour themes – Dark, Light, Blue, Green, Purple, Brown, Marine, Red
