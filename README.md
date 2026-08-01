@@ -24,7 +24,7 @@ Key repeat with configurable delay and rate
 
 XKB layout monitoring – automatically adapts to system keyboard layout (supports Arabic with custom mapping)
 
-<img width="1699" height="956" alt="screen_20260801_171944" src="https://github.com/user-attachments/assets/5534efe9-9908-4344-a00a-a94eb1a2e182" />
+
 
 # Appearance
 8 colour themes – Dark, Light, Blue, Green, Purple, Brown, Marine, Red
@@ -64,6 +64,8 @@ Speak selected text – copies primary selection and uses edge-tts to read aloud
 Mouse button simulation – right‑click at current cursor position
 
 Dock to left edge – hides most of the window, only a thin strip remains
+
+<img width="1699" height="956" alt="screen_20260801_171944" src="https://github.com/user-attachments/assets/5534efe9-9908-4344-a00a-a94eb1a2e182" />
 
 # Configuration
 All settings persist across sessions in keyb_config.txt (plain text)
