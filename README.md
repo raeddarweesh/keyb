@@ -2,6 +2,9 @@
 Keyb is a feature‑rich on‑screen virtual keyboard designed for Linux desktop OS. It provides a full QWERTY layout with advanced input methods, customizable appearance, and system integration. Built with X11, Cairo, and FreeType, it offers a smooth, responsive experience for touch‑screen users, accessibility needs, or as a handy input tool.
 
 # ✨ Features
+
+
+
 # Core Keyboard
 Full QWERTY layout with modifier keys (Shift, Ctrl, Alt, Caps Lock)
 
@@ -23,7 +26,6 @@ XKB layout monitoring – automatically adapts to system keyboard layout (suppor
 
 <img width="1699" height="956" alt="screen_20260801_171944" src="https://github.com/user-attachments/assets/5534efe9-9908-4344-a00a-a94eb1a2e182" />
 
-
 # Appearance
 8 colour themes – Dark, Light, Blue, Green, Purple, Brown, Marine, Red
 
@@ -34,6 +36,8 @@ Adjustable opacity (0.2 – 0.99)
 Scale factor – resize the entire keyboard (0.2× – 4.0×)
 
 Custom TrueType font support (place myfont.ttf in the working directory)
+
+<img width="850" height="678" alt="keyb" src="https://github.com/user-attachments/assets/6472e5fc-7506-4300-a7cf-563d6b548e88" />
 
 # Swipe Typing (Swype)
 Draw continuous paths across letter keys to form words
@@ -66,7 +70,7 @@ All settings persist across sessions in keyb_config.txt (plain text)
 
 Remembers window position, scale, theme, mode, opacity, and more
 
-🖥️ Window Management
+# Window Management
 Always on top – stays above other windows
 
 Drag to move – click and drag the window
